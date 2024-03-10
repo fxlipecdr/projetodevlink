@@ -1,0 +1,25 @@
+alinhamentos:
+
+
+background =
+center\
+
+
+position
+top
+right
+z-index
+transform: translateY e X - 50%
+
+
+textos
+text-align center
+
+
+
+display block
+margin
+
+display flex
+align-items
+justify content
